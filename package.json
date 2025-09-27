@@ -2,12 +2,8 @@
   "name": "taxai-analyzer",
   "private": true,
   "type": "module",
-  "engines": {
-    "node": ">=18"
-  },
+  "engines": { "node": ">=18" },
   "dependencies": {
-    "pdf-parse": "1.1.1",
-    "sharp": "0.33.3",
-    "openai": "4.57.0"
+    "pdf-parse": "1.1.1"
   }
 }
